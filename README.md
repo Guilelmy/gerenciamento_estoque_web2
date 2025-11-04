@@ -1,1 +1,3 @@
-# gerenciamento_estoque_web2
+# Projeto FInal WEB2
+
+Dupla: Guilhermy Pereira e Luan Coelho Galdiano
